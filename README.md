@@ -21,7 +21,6 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses: 
 
 [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-[`react-youtube`](https://www.npmjs.com/package/react-youtube) to load the YouTube embed player.
 [`tailiwndcss`](https://tailwindcss.com/) to page styling.
 [`phosporicons`](https://phosphoricons.com/) to the site icons.
 
