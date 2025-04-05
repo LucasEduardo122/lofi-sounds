@@ -59,7 +59,7 @@ export default function Home() {
 
     {
       id: 6,
-      imageURL: 'https://i.ytimg.com/vi/1rQkJM9piA0/maxresdefault.jpg',
+      imageURL: 'https://images4.alphacoders.com/947/thumb-1920-947720.jpg',
       nameRef: 'lofi4'
     },
 
